@@ -1,0 +1,59 @@
+html {
+    /* font-size: 15px; */
+}
+
+.h1-text {
+    color: red;
+    height: 100px;
+    background: url('../images/phone6.jpeg') no-repeat center;
+    background-size: contain;
+    direction: rtl;
+}
+
+.p-text {
+    background-color: aquamarine;
+    outline-offset: 20px;
+    outline: 1px solid blue;
+    font-size: 2rem;
+    /* margin: 30px; */
+}
+
+.h4-text {
+    background: red;
+}
+
+/* rem
+em
+%
+1.5vw - 1%  
+1vh
+
+px
+cm
+mm */
+
+/* Absolute 
+Relative  */
+
+@media screen and (min-width: 250px) and (max-width: 500px) {
+
+    /* body {
+        background-color: blue;
+    } */
+
+}
+
+
+
+/* @media screen and (min-width: 800px) {
+    body {
+        background-color: red;
+    }
+} */
+
+
+320px — 480px: Mobile devices. 481px — 768px: iPads,
+Tablets. 769px — 1024px: Small screens,
+laptops. 1025px — 1200px: Desktops,
+large screens. 1201px and more — Extra large screens,
+TV.
